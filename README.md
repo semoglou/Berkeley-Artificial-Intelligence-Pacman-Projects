@@ -1,7 +1,7 @@
 ##   <div align="center">    Berkeley Artificial Intelligence - Pacman Projects
 
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/a9/cb/3d/a9cb3d62f00833ca6f2b034f5c3669b6.gif" width="400"/>
+  <img src="https://i.pinimg.com/originals/a9/cb/3d/a9cb3d62f00833ca6f2b034f5c3669b6.gif" width="450"/>
 </div>
 
 * You can find information about the projects here: [The Pac-Man Projects](https://inst.eecs.berkeley.edu/~cs188/sp22/projects/)
