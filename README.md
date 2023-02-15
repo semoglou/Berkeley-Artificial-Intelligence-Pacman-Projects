@@ -1,7 +1,7 @@
 ##   <div align="center">    Berkeley Artificial Intelligence - Pacman Projects
 
 <div id="header" align="center">
-  <img src="https://inst.eecs.berkeley.edu/~cs188/sp22/assets/images/pacman_game.gif" width="500"/>
+  <img src="https://blog.sciencemuseum.org.uk/wp-content/uploads/2017/10/Pacman.gif" width="500"/>
 </div>
 
 * You can find information about the projects here: [The Pac-Man Projects](https://inst.eecs.berkeley.edu/~cs188/sp22/projects/)
