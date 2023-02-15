@@ -1,5 +1,9 @@
 ## Berkeley Artificial Intelligence - Pacman Projects
 
+<div id="header" align="center">
+  <https://media.giphy.com/media/cyMqOH8rjgDHG/giphy.gif/>
+</div>
+
 * You can find information about the projects here: [The Pac-Man Projects](https://inst.eecs.berkeley.edu/~cs188/sp22/projects/)
 
 * The code was written in the framework of Artificial Intelligence class in University (National and Kapodistrian University of Athens)
