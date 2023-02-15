@@ -1,4 +1,4 @@
-## <div align="center">  Berkeley Artificial Intelligence - Pacman Projects
+##   <div align="center">    Berkeley Artificial Intelligence - Pacman Projects
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/cyMqOH8rjgDHG/giphy.gif" width="200"/>
