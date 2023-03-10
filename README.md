@@ -39,6 +39,6 @@ shopSmart.py|
 * I got the maximum of points in all projects i have done so far (0, 1, 2)
 
 ### Info
-* Aggelos Semoglou
+* Angelos Semoglou
 
 * Applied Mathematics Student at National and Kapodistrian University of Athens
