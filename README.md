@@ -37,8 +37,3 @@ shopSmart.py|
 * The code is tested several times and it is running perfectly
 
 * I got the maximum of points in all projects i have done so far (0, 1, 2)
-
-### Info
-* Angelos Semoglou
-
-* Applied Mathematics Student at National and Kapodistrian University of Athens
