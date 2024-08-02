@@ -8,6 +8,7 @@
 
 * The code was written in the framework of Artificial Intelligence class in University (National and Kapodistrian University of Athens)
 
+***
 
 ### Set Up
 
@@ -17,6 +18,8 @@
 
 * To confirm that the code is running properly, execute the command python autograder.py (in a Linux terminal or in Windows Powershell or in Mac terminal)
 
+***
+
 ### Projects Overview
 
 * Project 0: Tutorial
@@ -25,6 +28,8 @@
 
 * Project 2: Multiagent (Multiagent Minimax, Alpha-Beta Pruning, Expectimax Algorithms and designing evaluation functions)
 
+***
+
 #### Files to implement
 
 Project 0 | Project 1 | Project 2
@@ -32,6 +37,8 @@ Project 0 | Project 1 | Project 2
 addition.py|search.py|multiAgents.py
 buyLotsOfFruit.py|searchAgents.py|
 shopSmart.py|
+
+***
 
 ### Contribution 
 * The code is tested several times and it is running perfectly
