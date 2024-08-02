@@ -22,15 +22,15 @@
 
 ### Projects Overview
 
-* Project 0: Tutorial
+- **Project 0:** Tutorial
 
-* Project 1: Search (Depth First, Breadth First, Uniform Cost, and A* Search Algorithms, Suboptimal Search and designing cost functions)
+- **Project 1:** Search (Depth First, Breadth First, Uniform Cost, and A* Search Algorithms, Suboptimal Search and designing cost functions)
 
-* Project 2: Multiagent (Multiagent Minimax, Alpha-Beta Pruning, Expectimax Algorithms and designing evaluation functions)
+- **Project 2:** Multiagent (Multiagent Minimax, Alpha-Beta Pruning, Expectimax Algorithms and designing evaluation functions)
 
 ***
 
-#### Files to implement
+### Files to implement
 
 Project 0 | Project 1 | Project 2
 -----------|-----------|---------|
