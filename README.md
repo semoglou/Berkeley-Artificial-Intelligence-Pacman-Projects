@@ -12,7 +12,7 @@
 
 ### Set Up
 
-* Code written in Python (2)
+* Code written in Python
 
 * For each project you have to download all the files and follow the directions from the site above 
 
